@@ -1,0 +1,6 @@
+Le besoin du client ici est de réaliser la commande d'un système de drône de A à Z pour jouer au jeu Flappy Drone :
+Nous disposons d’un drone DJI Tello.
+Le pilotage s'effectuera uniquement sur la position en z.
+Il faudra surveiller le niveau de charge de la batterie.
+Une commande automatique et manuelle doivent être programmées.
+Il va falloir gérer les 
