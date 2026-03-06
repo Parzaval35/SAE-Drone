@@ -1,0 +1,31 @@
+Grandes tâches :
+
+- Partie drône réel
+- - Tester la connexion au drône
+- - Experimenter sur le drône afin de récupérer des données
+- Partie drône simulation
+- Développer la commande manuelle
+- Développer le correcteur
+
+Nomenclature :
+- fichier de pilotage du drône : PilotageDrone_XX-XX_VX.m XX-XX : date, VX version
+- fichier d'expérimentation : TestDrone_XX-XX_VX_testX_*description*.mat
+
+Github :
+Faire une branche par personne :
+Fin de séance - push global des fichiers sur le main.
+
+Livrables :
+
+- 1 rapport et une soutenance présentant :
+- - Le management de projet
+- - Les méthodes employées pour le réglage des correcteurs
+- - Les résultats obtenus
+
+- 1 vidéo de 2-3 minute présentant votre parcours tout au long du projet:
+- - L'objectif est de présenter, outre les résultats obtenus, les grandes étapes qui vous ont permis d'atteindre les objectifs du projet.
+
+- 1 archive zip comprenant :
+- - Le programme permettant de piloter le drone dans le jeu
+- - Les fichiers de sauvegarde obtenus avec le programme précédent sur tous les niveaux
+- - Un programme permettant d'afficher toutes les sauvegardes
